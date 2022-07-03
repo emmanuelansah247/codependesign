@@ -19,13 +19,17 @@ https://nodejs.org/en/download/
 
 ## Steps
 step 1 is optional
-1. Run the code below to create a (if you want to start from scratch)
-    'npx create-react-app codependesign'
-    This will download and install 'create-react-app' with the parent directory name "codependesign"
+1. If you don't have reactjs installed on your local machine, you can run the code below to create a reactjs project (if you want to start from scratch)
+
+        'npx create-react-app codependesign'
+   
+   This will download and install 'create-react-app' with the parent directory name "codependesign"
     
  or
  
- 2. You can download or clone the github repository. Run the code below to clone the repository
+2. You can download or clone the github repository. Run the code below to clone the repository
+          git clone https://github.com/emmanuelansah247/onlineschool.git
+ 
  
 
 3. To run the application, run the code below
@@ -41,10 +45,6 @@ step 1 is optional
       'npm install swiper'
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -56,11 +56,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -87,27 +82,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
