@@ -13,36 +13,33 @@ This is a project I built using pieces from codepen. Each component is from a di
 ## REQUIREMNTS
 You need to install node
 
-
 you can download and install node from this link
 https://nodejs.org/en/download/
 
-## Steps
-step 1 is optional
-1. If you don't have reactjs installed on your local machine, you can run the code below to create a reactjs project (if you want to start from scratch)
+If you don't have reactjs installed on your local machine, you can run the code below to create a reactjs project (if you want to start from scratch)
 
         'npx create-react-app codependesign'
-   
-   This will download and install 'create-react-app' with the parent directory name "codependesign"
-    
- or
+
+you need to install the react-router-dom to help in navigation. Type the code below to install
+
+      npm install react-router-dom
+      
+you need to install swiper as well. To install swiper, type
  
-2. You can download or clone the github repository. Run the code below to clone the repository
+       npm install swiper
+
+## Steps to run the applicatoin
+ 
+1. You can download or clone the github repository. Run the code below to clone the repository
+
           git clone https://github.com/emmanuelansah247/onlineschool.git
- 
- 
 
-3. To run the application, run the code below
-    'npm start'
+2. To run the application, run the code below
+     npm start
 
-4. To build the appliation, run the code below
-    'npm run build' 
+3. To build the appliation, run the code below
 
-5. For navigatin, run the following to install react-router-dom
-     'npm install react-router-dom'
-
-6. To install swiper, run the following code
-      'npm install swiper'
+     npm run build 
 
 
 ## Available Scripts
