@@ -1,12 +1,32 @@
 ### STARTING
+
+#### Description
+This is a project I built using pieces from codepen. Each component is from a different codepen project. The front page of the website looks more like a movie website but I was trying to build something from the pieces I saw from codepen. The project was basically about converting and html page to a reactjs page.
+
+#### Stack 
+1. Reactjs
+2. Html
+3. Css
+4. Swiper
+
+
 ## REQUIREMNTS
-Download and Install node 
+You need to install node
+
+
+you can download and install node from this link
+https://nodejs.org/en/download/
 
 ## Steps
-1. Create a folder with name 'ANALOY-PROJECT'
-2. Run the code below to create a
-    'npx create-react-app analoy'
-    This will download and install 'create-react-app'
+step 1 is optional
+1. Run the code below to create a (if you want to start from scratch)
+    'npx create-react-app codependesign'
+    This will download and install 'create-react-app' with the parent directory name "codependesign"
+    
+ or
+ 
+ 2. You can download or clone the github repository. Run the code below to clone the repository
+ 
 
 3. To run the application, run the code below
     'npm start'
