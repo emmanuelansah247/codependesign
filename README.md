@@ -1,7 +1,7 @@
 ### STARTING
 
 #### Description
-This is a project I built using pieces from codepen. Each component is from a different codepen project. The front page of the website looks more like a movie website but I was trying to build something from the pieces I saw from codepen. The project was basically about converting and html page to a reactjs page.
+This is a project I built using pieces from codepen. Each component is from a different codepen project. The front page of the website looks more like a movie website but I was trying to build something from the pieces I saw from codepen. The project was basically about converting an html page to a reactjs page.
 
 #### Stack 
 1. Reactjs
